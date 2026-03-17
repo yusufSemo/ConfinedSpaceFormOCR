@@ -1,0 +1,558 @@
+{
+  "source_file": "/content/sample_data/IMG_7043.jpg",
+  "page_count": 2,
+  "summary": {
+    "total_fields": 78,
+    "filled": 38,
+    "empty": 22,
+    "uncertain": 18
+  },
+  "fields": [
+    {
+      "key": "Date",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Header"
+    },
+    {
+      "key": "Entry Time",
+      "value": ":",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "AM/PM (Entry)",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Header"
+    },
+    {
+      "key": "Permit Expiration Time",
+      "value": "6",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "AM/PM (Expiration)",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Header"
+    },
+    {
+      "key": "Confined Space Name/ID",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Header"
+    },
+    {
+      "key": "Location",
+      "value": " ford \u00a2",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "Reason for Entry",
+      "value": "MWords",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "Entry Point",
+      "value": " Keep permit on file for one year",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "Communication Used",
+      "value": "VOICE (HAND SIGNAL) RADIO Other,",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Header"
+    },
+    {
+      "key": "Oxygen Deficient <19.5%",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards"
+    },
+    {
+      "key": "Oxygen Enriched >= 23.5%",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Atmospheric Hazards"
+    },
+    {
+      "key": "Flammable Gases, Vapors when >= 10% LFL",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards"
+    },
+    {
+      "key": "Toxic Gases, Vapors when >= PEL",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards"
+    },
+    {
+      "key": "Airborne combustible dust",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Atmospheric Hazards"
+    },
+    {
+      "key": "Control: Test before entry",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards - Controls"
+    },
+    {
+      "key": "Control: Continual monitoring",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards - Controls"
+    },
+    {
+      "key": "Control: Natural ventilation",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards - Controls"
+    },
+    {
+      "key": "Control: Forced air ventilation",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Atmospheric Hazards - Controls"
+    },
+    {
+      "key": "Flowing material",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment & Entrapment Hazards"
+    },
+    {
+      "key": "Hung up, bridged, crusted material",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment & Entrapment Hazards"
+    },
+    {
+      "key": "Inwardly converging walls",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment & Entrapment Hazards"
+    },
+    {
+      "key": "Sloping floors",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment & Entrapment Hazards"
+    },
+    {
+      "key": "Control: LOTO fill and/or emptying equipment",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Engulfment Controls"
+    },
+    {
+      "key": "Control: Lock gates",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment Controls"
+    },
+    {
+      "key": "Control: Block spouts/pipes",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment Controls"
+    },
+    {
+      "key": "Control: Drain/empty",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Engulfment Controls"
+    },
+    {
+      "key": "Control: Lifeline use",
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Engulfment Controls"
+    },
+    {
+      "key": "Hazard: Egress hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Insufficient lighting hazard",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Chemical hazards",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Mechanical hazards (unguarded items)",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Electrical hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Fall hazards",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Respiratory hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Skin hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Heat/Cold hazards",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Snake, Rodent, Animal and Insect Hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Vehicle hazards",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Hazard: Noise hazards",
+      "value": "Listed in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Other Hazards & Control",
+      "value": "\" \" NIA OC Wilh S$ * Con be. bamn X",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Potential/Known Hazards"
+    },
+    {
+      "key": "Entry area secure",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "LOTO/de-energization & isolation",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Lighting (rated for type of space/work)",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Hot work permit",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "GFCI equipment",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Non-sparking tools",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Safety harness & lifeline or retrieval line",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "PPE inspection completed before use",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Mechanical retrieval device",
+      "value": null,
+      "status": "uncertain",
+      "confidence": 0.3,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Respirator",
+      "value": "Present in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Hearing Protection",
+      "value": "Present in form",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Other PPE",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Safety & Emergency Rescue"
+    },
+    {
+      "key": "Rescue equipment available",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "Rescue equipment type",
+      "value": "/ Control Used Potential/known hazard YES NO Type/ Control Used",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "Stand by personnel used",
+      "value": "NO",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "Stand by personnel names",
+      "value": "Fits# nase Last rame 3. Ersst pane base wn",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "CPR trained person available",
+      "value": "NO",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "CPR trained person names",
+      "value": "fist Wace Lt",
+      "status": "filled",
+      "confidence": 0.678,
+      "section": "Rescue Information"
+    },
+    {
+      "key": "Monitor calibrated",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Atmospheric Information"
+    },
+    {
+      "key": "Date calibrated",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Atmospheric Information"
+    },
+    {
+      "key": "Monitor functioning correctly",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Atmospheric Information"
+    },
+    {
+      "key": "Pre-entry Time",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry O2",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry LFL",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry CO",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.68,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry H2S",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry PH3",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry NH3",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Pre-entry Signature",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Pre-Entry Air Monitor Readings"
+    },
+    {
+      "key": "Periodic Air Monitor Readings",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Periodic Air Monitor Readings"
+    },
+    {
+      "key": "Entrant(s)",
+      "value": "Eicst ane lot tere, it Mee Lastome Biaprten. Lure. Gitshvare Caspian",
+      "status": "filled",
+      "confidence": 0.68,
+      "section": "Signatures & Authorization"
+    },
+    {
+      "key": "Attendant(s)",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Signatures & Authorization"
+    },
+    {
+      "key": "Entry Supervisor (Print)",
+      "value": "we",
+      "status": "filled",
+      "confidence": 0.68,
+      "section": "Signatures & Authorization"
+    },
+    {
+      "key": "Entry Supervisor (Signature)",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Signatures & Authorization"
+    },
+    {
+      "key": "Permit Cancellation Time",
+      "value": ":",
+      "status": "filled",
+      "confidence": 0.68,
+      "section": "Permit Cancellation"
+    },
+    {
+      "key": "Structure returned to operating condition",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Permit Cancellation"
+    },
+    {
+      "key": "Cancellation Date",
+      "value": null,
+      "status": "empty",
+      "confidence": 0.0,
+      "section": "Permit Cancellation"
+    }
+  ]
+}
