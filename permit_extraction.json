@@ -73,23 +73,23 @@
     },
     {
       "key": "Communication Used",
-      "value": "VOICE (HAND SIGNAL) RADIO Other,",
+      "value": "(HAND SIGNAL),",
       "status": "filled",
-      "confidence": 0.678,
+      "confidence": 0.978,
       "section": "Header"
     },
     {
       "key": "Oxygen Deficient <19.5%",
       "value": "Checked (present in form)",
       "status": "filled",
-      "confidence": 0.678,
+      "confidence": 0.978,
       "section": "Atmospheric Hazards"
     },
     {
       "key": "Oxygen Enriched >= 23.5%",
-      "value": null,
-      "status": "uncertain",
-      "confidence": 0.3,
+      "value": "Checked (present in form)",
+      "status": "filled",
+      "confidence": 0.89,
       "section": "Atmospheric Hazards"
     },
     {
